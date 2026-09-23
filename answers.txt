@@ -5,3 +5,8 @@ Answer: Git is great for collaboration as it is way easier to use git to make su
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to fintech companies. For example, over the summer I worked at a fintech startup where I used data science to analyze loan repayment patterns and I worked on an Early warning system for loan defaulters.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging basically combines 2 branches and rebasing basically does all the commits from one branch to another.
