@@ -10,3 +10,7 @@ Answer: Data science can be applied to fintech companies. For example, over the 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging basically combines 2 branches and rebasing basically does all the commits from one branch to another.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am very interested in Data science and am really considering it as a career path, so I am very excited to learn more about data science and hone my skills so I can apply them to an actual use case in the future after I graduate.
